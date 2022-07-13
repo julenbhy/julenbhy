@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Image segmentation applied to colon carcinoma diagnosis](https://github.com/julenbhy/biomedical_segmentation).
 
-- 🤝 I’m looking for a full-time job where I can find a enriching environment that allows me to develop my skills.
+- 🤝 I’m looking for a full-time job where I can find an enriching environment that allows me to develop my skills.
 
 - 📧 How to reach me **julenbhy@gmail.com**
 
