@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **akjfdsñ**
 
-- 📫 How to reach me **julenbhy@gmail.com**
+- 📫📧 How to reach me **julenbhy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
