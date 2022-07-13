@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julen</h1>
-<h3 align="center">I am recent graduated computer engineer and biotechnologist who has gained experience in the field of AI applied to computer vision.</h3>
+<h3 align="center">I am a computer engineer and biotechnologist who has gained experience in the field of AI applied to computer vision, working for the last year at IIS Biodonostia. I am particularly interested in the field of machine learning and data science, although I am also highly interested in cloud computing and distributed systems. As a recent graduate, I seek to learn from my environment and continue training in new skills that allow me to develop in my professional career.</h3>
 
 - 🔭 I’m currently working on [Image segmentation applied to colon carcinoma diagnosis](https://github.com/julenbhy/biomedical_segmentation)
 
@@ -10,9 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://es.linkedin.com/in/julen-bohoyo-bengoetxea-b4521b185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julen bohoyo bengoetxea" height="30" width="40" /></a>
-  
- <a href="https://es.linkedin.com/in/julen-bohoyo-bengoetxea-b4521b185" target="blank"><img align="center" src=" https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="julen bohoyo bengoetxea" height="30" width="40" /></a> 
- 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
