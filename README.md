@@ -28,5 +28,5 @@
 </p>
 
 
-![XCode](https://img.shields.io/badge/-java-222222?style=flat&logo=java&logoColor=1575F9)
+![XCode](https://img.shields.io/badge/-Java-222222?style=flat&logo=Java&logoColor=1575F9)
 
