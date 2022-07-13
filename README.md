@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julen</h1>
 <h3 align="center">I am a computer engineer and biotechnologist who has gained experience in the field of AI applied to computer vision, working for the last year at IIS Biodonostia. I am particularly interested in the field of machine learning and data science, although I am also highly interested in cloud computing and distributed systems. As a recent graduate, I seek to learn from my environment and continue training in new skills that allow me to develop in my professional career.</h3>
 
-- 🔭 I’m currently working on [Image segmentation applied to colon carcinoma diagnosis](https://github.com/julenbhy/biomedical_segmentation)
+- 🔭 I’m currently working on [Image segmentation applied to colon carcinoma diagnosis](https://github.com/julenbhy/biomedical_segmentation).
 
-- 🤝 I’m looking for help with **akjfdsñ**
+- 🤝 I’m looking for a full-time job where I can find a enriching environment that allows me to develop my skills.
 
 - 📧 How to reach me **julenbhy@gmail.com**
 
