@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julen</h1>
-<h3 align="center">I am a computer engineer and biotechnologist who has gained experience in the field of AI applied to computer vision, working for the last year at IIS Biodonostia. I am particularly interested in the field of machine learning and data science, although I am also highly interested in cloud computing and distributed systems. As a recent graduate, I seek to learn from my environment and continue training in new skills that allow me to develop in my professional career.</h3>
+<h3 align="center">I am a computer engineer and biotechnologist who has gained experience in the field of AI applied to computer vision, working for the last year at IIS Biodonostia. I am particularly interested in the field of machine learning and data science, although I am also highly interested in cloud computing and distributed systems.</h3>
 
 - 🔭 I’m currently working at the [Biodonostia institute](https://www.biodonostia.org/en/) on:
 <br /><ul>[- image segmentation applied to colon carcinoma diagnosis.](https://github.com/julenbhy/biomedical_segmentation)
