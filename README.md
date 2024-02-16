@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julen</h1>
-<h3 align="center">I am a computer engineer and biotechnologist who has gained experience in the field of AI applied to computer vision. I am particularly interested in the field of machine learning and data science, although I am also highly interested in cloud computing and distributed systems.</h3>
+<h3 align="center">I am a computer engineer and biotechnologist. I am particularly interested in the fields of machine learning,, data science, and cloud computing.</h3>
 
 - 🔭 I’m currently working at [CLOUDLAB](https://cloudlab.urv.cat/) 
 
