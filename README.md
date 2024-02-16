@@ -7,7 +7,6 @@
 <br /><ul>[- image segmentation applied to colon carcinoma diagnosis.](https://github.com/julenbhy/biomedical_segmentation)
 <br />[- colon carcinoma classification.](https://github.com/julenbhy/carcinoma_classification)</ul>
 
-- 📧 How to reach me **julenbhy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
